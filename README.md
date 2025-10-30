@@ -4,13 +4,14 @@ working with data and code A2
 Project Type: TunePad musical composition 
 - Remix version of the song Freed From Desire
 
-TunePad was the coding platform and Python language was used. TunePad also allowed there to be different musical cells for each instrument where i was able to split each section up into the melody, percussion and chords. This also alloweed me to add my own creative flare to the muscial composition. 
+TunePad’s cell-based interface enabled me to structure the composition into separate musical elements, including melody, percussion, and chords. This modular format made it easier to experiment with timing, layering, and rhythm while adding my own creative flair to the remix.
 
-YouTube was also a major asset which helped with the muscial composition of the song where i used a video showing the song being played on the piano to help build my melody. The link for the YouTube video is below: 
+External resources: 
+- To help reconstruct the melody accurately, I referenced a YouTube tutorial demonstrating “Freed From Desire” on piano. This resource guided the development of the melodic structure within TunePad.
 https://www.youtube.com/watch?v=0xlqKrdYHw4
 
 To run or hear the TunePad project you need to import the .json file back into TunePad:
-1. download json. file from github
+1. download json. file from github (this can be done by clicking on the file from GitHub then pressing the download symbol so it saves to you personal files)
 2. go to tunepad
 3. log in
 4. click projects
@@ -19,4 +20,7 @@ To run or hear the TunePad project you need to import the .json file back into T
 6. tunepad will then create the project
 7. you can now run the project 
 
-In terms of running the code it is quite straight forward where in the top right hand corner of TunePad there is a play button which will run all the code simultaneously. If you wish to listen to each instrument individually this can also be done by individually picking which cell you want to run either on the right hand side where all the cells are lined up or scrolling to see the code and pressing play on the individual cell. 
+In TunePad, you have two options for running the project:
+- Run All: Click the Play button in the top right corner to execute all cells and hear the complete remix.
+- Run Individual Cells: You can also listen to specific instruments (melody, percussion, chords) by selecting a cell either from the right-hand panel or by scrolling through the code and pressing Play on the individual section.
+This flexible workflow allows you to isolate and refine different musical components, making it easier to analyse and build upon the composition.
