@@ -16,7 +16,7 @@ To run or hear the TunePad project you need to import the .json file back into T
 3. log in
 4. click projects
 5. click import project
-5. Upload the jdon. file you downloaded from github
+5. Upload the json. file you downloaded from github
 6. tunepad will then create the project
 7. you can now run the project 
 
