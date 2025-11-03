@@ -6,10 +6,11 @@ Project Type: TunePad musical composition
 
 TunePad’s cell-based interface enabled me to structure the composition into separate musical elements, including melody, percussion, and chords. This modular format made it easier to experiment with timing, layering, and rhythm while adding my own creative flair to the remix.
 
-External resources: 
+# External resources: 
 - To help reconstruct the melody accurately, I referenced a YouTube tutorial demonstrating “Freed From Desire” on piano. This resource guided the development of the melodic structure within TunePad.
 https://www.youtube.com/watch?v=0xlqKrdYHw4
 
+# Run Code
 To run or hear the TunePad project you need to import the .json file back into TunePad:
 1. download json. file from github (this can be done by clicking on the file from GitHub then pressing the download symbol so it saves to you personal files)
 2. go to tunepad
@@ -24,3 +25,8 @@ In TunePad, you have two options for running the project:
 - Run All: Click the Play button in the top right corner to execute all cells and hear the complete remix.
 - Run Individual Cells: You can also listen to specific instruments (melody, percussion, chords) by selecting a cell either from the right-hand panel or by scrolling through the code and pressing Play on the individual section.
 This flexible workflow allows you to isolate and refine different musical components, making it easier to analyse and build upon the composition.
+
+# Screenshots of Project
+
+<img width="1907" height="965" alt="Screenshot 2025-11-03 at 7 16 30 pm" src="https://github.com/user-attachments/assets/1d4838a5-9cfc-453b-810a-912dba5e958e" />
+
