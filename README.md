@@ -29,4 +29,7 @@ This flexible workflow allows you to isolate and refine different musical compon
 # Screenshots of Project
 
 <img width="1907" height="965" alt="Screenshot 2025-11-03 at 7 16 30 pm" src="https://github.com/user-attachments/assets/1d4838a5-9cfc-453b-810a-912dba5e958e" />
+<img width="1907" height="965" alt="Screenshot 2025-11-03 at 7 16 40 pm" src="https://github.com/user-attachments/assets/0e6360cc-4d4b-4938-bd50-48fea25b413c" />
+<img width="1907" height="965" alt="Screenshot 2025-11-03 at 7 16 49 pm" src="https://github.com/user-attachments/assets/89bf552b-4ab0-4e56-90d8-71eb0a343fde" />
+
 
